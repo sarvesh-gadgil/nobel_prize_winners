@@ -49,8 +49,13 @@ This file contains function showMoreInfo(id) which is called when user hovers ov
 References:
 
 -Shadow Pane reference - https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_box-shadow
+
 -Forms reference - https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
+
 -CSS Buttons Reference - https://www.w3schools.com/css/css3_buttons.asp
+
 -CSS Table Reference - https://www.w3schools.com/css/css_table.asp
+
 -Modal reference - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_modal2
+
 -XML HTTP Request reference - https://www.w3schools.com/xml/tryit.asp?filename=tryxml_httprequest
